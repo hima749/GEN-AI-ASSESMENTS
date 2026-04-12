@@ -1,0 +1,1 @@
+Bioinformatics involves analyzing biological data such as DNA, RNA, and proteins using computational tools.
